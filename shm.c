@@ -59,27 +59,3 @@ int main(int argc, char *argv[]) {
 
   return 0;
 }
-
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
-
-</title></head>
-<body>
-    <form method="post" action="./DownloadFile.aspx?Source=Course&amp;CourseType=2&amp;AttachmentID=353101&amp;AttachmentFileName=shm.c" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEzNDM3NzkxOWRkE99b+haQV3ZBm26TDQfyZY8BZWY=" />
-</div>
-
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F69017DB" />
-</div>
-    <div>
-    
-    </div>
-    </form>
-</body>
-</html>
